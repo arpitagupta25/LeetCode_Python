@@ -4,7 +4,7 @@ Problems Completed
 
 - [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
-- [ ] 3Sum
+- [x] 3Sum
 - [ ] Rotate Array
 
 Progress
