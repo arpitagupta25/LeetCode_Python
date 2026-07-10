@@ -1,4 +1,4 @@
-# Two Sum
+# 3Sum
 
 ## Difficulty
 Medium
