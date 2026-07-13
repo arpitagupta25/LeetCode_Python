@@ -10,7 +10,8 @@ Problems Completed
 - [x] Container with Most Water
 - [x] Remove Duplicates from sorted array
 - [x] Trapping Rain Water
+- [x] Remove Element
 
 Progress
 
-6 / 25
+7 / 25
