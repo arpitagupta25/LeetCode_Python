@@ -7,7 +7,10 @@ Problems Completed
 - [x] 3Sum
 - [x] 4Sum
 - [ ] Rotate Array
+- [x] Container with Most Water
+- [x] Remove Duplicates from sorted array
+- [x] Trapping Rain Water
 
 Progress
 
-3 / 25
+6 / 25
