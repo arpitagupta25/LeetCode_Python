@@ -5,3 +5,4 @@ class Solution(object):
             if nums[right] != 0:
                 nums[left], nums[right] = nums[right], nums[left]
                 left += 1
+        return nums
