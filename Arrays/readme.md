@@ -12,7 +12,9 @@ Problems Completed
 - [x] Trapping Rain Water
 - [x] Remove Element
 - [x] Move Zeroes
+- [x] Remove Duplicates from sorted array II
+- [x] Apply Operations to an Array
 
 Progress
 
-8 / 25
+10 / 25
