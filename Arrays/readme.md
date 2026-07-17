@@ -14,7 +14,8 @@ Problems Completed
 - [x] Move Zeroes
 - [x] Remove Duplicates from sorted array II
 - [x] Apply Operations to an Array
+- [x] Merge Sorted Array
 
 Progress
 
-10 / 25
+11 / 25
