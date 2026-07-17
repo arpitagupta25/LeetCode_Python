@@ -15,7 +15,8 @@ Problems Completed
 - [x] Remove Duplicates from sorted array II
 - [x] Apply Operations to an Array
 - [x] Merge Sorted Array
+- [x] Best Time to Buy and Sell
 
 Progress
 
-11 / 25
+12 / 25
