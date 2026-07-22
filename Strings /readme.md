@@ -2,7 +2,7 @@
 
 Problems Completed
 
-- [x] Longest Palindrome Subsequence
+- [x] Longest Palindrome Substring
 
 Progress
 
