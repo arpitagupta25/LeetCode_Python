@@ -16,7 +16,8 @@ Problems Completed
 - [x] Apply Operations to an Array
 - [x] Merge Sorted Array
 - [x] Best Time to Buy and Sell
+- [x] Cotains duplicates
 
 Progress
 
-14 / 25
+15 / 25
