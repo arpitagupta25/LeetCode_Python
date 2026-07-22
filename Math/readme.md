@@ -2,7 +2,7 @@
 
 Problems Completed
 
-- [x] Reverse element
+- [x] Reverse integer
 
 
 Progress
