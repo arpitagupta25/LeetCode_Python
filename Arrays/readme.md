@@ -3,10 +3,10 @@
 Problems Completed
 
 - [x] Two Sum
-- [ ] Best Time to Buy and Sell Stock
+- [x] Maximum Subarray
 - [x] 3Sum
 - [x] 4Sum
-- [ ] Rotate Array
+- [x] Product of Array except itself
 - [x] Container with Most Water
 - [x] Remove Duplicates from sorted array
 - [x] Trapping Rain Water
@@ -19,4 +19,4 @@ Problems Completed
 
 Progress
 
-12 / 25
+14 / 25
