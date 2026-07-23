@@ -3,7 +3,8 @@
 Problems Completed
 
 - [x] Longest Palindrome Substring
-
+- [x] Valid Parenthesis
+      
 Progress
 
-1 / 25
+2 / 25
