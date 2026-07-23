@@ -30,14 +30,15 @@ Stack
 ## Mistakes I Made
 
 -Trying to compare different characters. As, Opening and closing brackets are different characters
+
  ```python
 stk[-1] == i
-python```
+```
 
 - Tries to remove a closing bracket that's never stored
 ```python
 stk.remove(i)
-python```
+```
 
 ## Similar Questions
 
