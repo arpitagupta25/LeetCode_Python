@@ -3,8 +3,9 @@
 Problems Completed
 
 - [x] Reverse integer
+- [x] Sqrt(x)
 
 
 Progress
 
-1 / 25
+2 / 25
