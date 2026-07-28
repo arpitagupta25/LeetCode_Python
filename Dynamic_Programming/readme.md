@@ -2,7 +2,7 @@
 
 Problems Completed
 
-- [x] Two Sum
+- [x] Climbing Stairs
 
 
 Progress
