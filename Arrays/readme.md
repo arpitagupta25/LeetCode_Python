@@ -17,7 +17,8 @@ Problems Completed
 - [x] Merge Sorted Array
 - [x] Best Time to Buy and Sell
 - [x] Cotains duplicates
+- [x] Search Insert Position
 
 Progress
 
-15 / 25
+16 / 25
