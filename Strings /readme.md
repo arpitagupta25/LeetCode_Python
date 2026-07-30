@@ -6,7 +6,8 @@ Problems Completed
 - [x] Valid Parenthesis
 - [x] String to Integer (atoi)
 - [x] Isomorphic Strings
+- [x] Length of Last Word
       
 Progress
 
-4 / 25
+5 / 25
