@@ -7,7 +7,8 @@ Problems Completed
 - [x] String to Integer (atoi)
 - [x] Isomorphic Strings
 - [x] Length of Last Word
+- [x] Find the Index of the First Occurrence in a String
       
 Progress
 
-5 / 25
+6 / 25
