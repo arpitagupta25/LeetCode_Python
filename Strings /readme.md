@@ -8,7 +8,8 @@ Problems Completed
 - [x] Isomorphic Strings
 - [x] Length of Last Word
 - [x] Find the Index of the First Occurrence in a String
+- [x] Valid Palindrome
       
 Progress
 
-6 / 25
+7 / 25
