@@ -4,8 +4,9 @@ Problems Completed
 
 - [x] Reverse integer
 - [x] Sqrt(x)
+- [x] Palindrome Number
 
 
 Progress
 
-2 / 25
+3 / 25
