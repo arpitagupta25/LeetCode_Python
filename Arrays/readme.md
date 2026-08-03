@@ -18,7 +18,8 @@ Problems Completed
 - [x] Best Time to Buy and Sell
 - [x] Cotains duplicates
 - [x] Search Insert Position
+- [x] Majority Element
 
 Progress
 
-16 / 25
+17 / 25
