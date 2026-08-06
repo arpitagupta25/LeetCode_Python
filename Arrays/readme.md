@@ -19,7 +19,9 @@ Problems Completed
 - [x] Cotains duplicates
 - [x] Search Insert Position
 - [x] Majority Element
+- [x] Longest Common Prefix
+- [x] Plus One
 
 Progress
 
-17 / 25
+19 / 25
