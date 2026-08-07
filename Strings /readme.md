@@ -9,7 +9,8 @@ Problems Completed
 - [x] Length of Last Word
 - [x] Find the Index of the First Occurrence in a String
 - [x] Valid Palindrome
+- [x] Reverse String
       
 Progress
 
-7 / 25
+8 / 25
