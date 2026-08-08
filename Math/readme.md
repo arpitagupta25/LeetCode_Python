@@ -6,8 +6,9 @@ Problems Completed
 - [x] Sqrt(x)
 - [x] Palindrome Number
 - [x] Stone Game
+- [x] Fizz Buzz
 
 
 Progress
 
-4 / 25
+5 / 25
