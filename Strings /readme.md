@@ -10,7 +10,8 @@ Problems Completed
 - [x] Find the Index of the First Occurrence in a String
 - [x] Valid Palindrome
 - [x] Reverse String
+- [x] Add Binary
       
 Progress
 
-8 / 25
+9 / 25
