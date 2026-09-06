@@ -11,7 +11,8 @@ Problems Completed
 - [x] Valid Palindrome
 - [x] Reverse String
 - [x] Add Binary
+- [x] Word Pattern
       
 Progress
 
-9 / 25
+10 / 25
