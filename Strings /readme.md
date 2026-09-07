@@ -12,7 +12,8 @@ Problems Completed
 - [x] Reverse String
 - [x] Add Binary
 - [x] Word Pattern
+- [x] Is Subsequence
       
 Progress
 
-10 / 25
+11 / 25
