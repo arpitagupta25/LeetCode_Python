@@ -13,7 +13,8 @@ Problems Completed
 - [x] Add Binary
 - [x] Word Pattern
 - [x] Is Subsequence
+- [x] First Unique Character in String
       
 Progress
 
-11 / 25
+12 / 25
