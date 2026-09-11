@@ -21,7 +21,8 @@ Problems Completed
 - [x] Majority Element
 - [x] Longest Common Prefix
 - [x] Plus One
+- [x] Unique 3-Digit Even Number
 
 Progress
 
-19 / 25
+20 / 25
