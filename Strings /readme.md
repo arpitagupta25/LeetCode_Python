@@ -14,7 +14,8 @@ Problems Completed
 - [x] Word Pattern
 - [x] Is Subsequence
 - [x] First Unique Character in String
+- [x] To Lower Case
       
 Progress
 
-12 / 25
+13 / 25
